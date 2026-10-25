@@ -1,0 +1,27 @@
+DREAMSAVE – KOSTENLOSE SPAR-WEB-APP
+
+DATEIEN: index.html, manifest.webmanifest, sw.js, icon.png, icon-512.png
+
+SCHNELL TESTEN
+1. Am Computer index.html mit einem Browser öffnen.
+2. Sparziele erstellen und Einzahlungen erfassen.
+3. Im Bereich Einstellungen ein Backup herunterladen.
+
+AUF DEM IPHONE INSTALLIEREN (kostenloses Hosting über GitHub Pages)
+1. Auf https://github.com ein kostenloses Konto erstellen oder anmelden.
+2. Ein neues Repository erstellen, z. B. dreamsave. WICHTIG: Bei kostenlosem GitHub Pages muss das Repository auf Free normalerweise PUBLIC sein. Das heisst: Der QUELLCODE ist öffentlich sichtbar, aber deine später lokal eingegebenen Sparbeträge stehen NICHT im Repository.
+3. Die fünf App-Dateien aus dem ZIP in das Repository hochladen (Add file > Upload files > Commit changes).
+4. Repository > Settings > Pages > Build and deployment: Deploy from a branch, Branch main, Folder /(root), Save.
+5. Warten, bis GitHub die Pages-Adresse zeigt: https://DEIN-NUTZERNAME.github.io/dreamsave/
+6. Diese Adresse auf dem iPhone in Safari öffnen.
+7. In Safari auf Teilen tippen > Zum Home-Bildschirm > Hinzufügen (je nach iOS-Version ggf. unter Mehr).
+8. DreamSave vom Home-Bildschirm öffnen und Sparziele erfassen.
+
+DATENSCHUTZ / WICHTIG
+- Die App hat KEINE Anmeldung und KEINE Bankverbindung.
+- Finanzdaten werden im lokalen Browser-Speicher auf deinem jeweiligen Gerät gespeichert, nicht mit GitHub synchronisiert.
+- Der Quellcode ist bei einem öffentlichen Repository sichtbar. Keine persönlichen Finanzdaten in den Quellcode oder das Repository schreiben.
+- Löschen von Browserdaten, ein neues Gerät oder ein anderer Browser kann Datenverlust bedeuten. Regelmässig Einstellungen > Backup herunterladen nutzen.
+- Die Erinnerung erscheint nur beim Öffnen der App. Es gibt keine Push-Benachrichtigungen im Hintergrund.
+- Die App ist ein persönliches Spar-Tracking-Tool, keine Bank und kein automatischer Geldtransfer.
+- Für echte Privatheit der Website selbst braucht es einen privaten Hosting-Dienst; GitHub Pages auf einem öffentlichen Repository ist über die URL erreichbar.
